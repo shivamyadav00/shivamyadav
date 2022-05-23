@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am current a student at the University of Michigan pursuing a Master of Science in Applied Statistics. I have a Bachelor of Science, Engineering (BSE) in Data Science. Some of my favorite classes to date have been information retrieval, theoretical probability, machine learning, and data mining. I am also an avid chef: feel free to follow my instagram @shivamthechef to stay up to date my my latest plant-based creations. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
