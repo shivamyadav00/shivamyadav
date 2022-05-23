@@ -16,4 +16,4 @@
 
 - name: Javascript
   percentage: 70
-  color: muted
+  color: info
